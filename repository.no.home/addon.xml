@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.no.home" name="[COLOR blue]Confluence No Home[/COLOR]" version="1.0.0" provider-name="SKINBASE | Loki1979">
+	<extension point="xbmc.addon.repository" name="Test Repository">
+		<info compressed="false">https://raw.github.com/kaffepausse71/confluence.no.home/master/addons.xml</info>
+		<checksum>https://raw.github.com/kaffepausse71/confluence.no.home/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/kaffepausse71/confluence.no.home/master/</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+	<summary>Confluence SKIN OHNE HAUPTMENÜ !!!!</summary>
+	<description>Confluence SKIN OHNE HAUPTMENÜ !!!!</description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+    <assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
